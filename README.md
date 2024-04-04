@@ -4,6 +4,10 @@
 
 This project delves into the convergence of supply chain operations and digital consumer behavior analysis. By integrating two distinct datasets – a supply chain dataset offering insights into sales, logistics, and delivery performance, alongside an access logs dataset detailing online consumer interactions and preferences – the aim is to discern the relationship between customer engagement, online views, and sales. Employing Excel, this project builds a comprehensive dashboard to identify top-selling product categories and most-viewed products, thereby enabling strategic decision-making in customer relationship management and product marketing.
 
+## Two Excel Dataset:
+1. **DataCoSupplyChainDataset.csv**: This dataset likely contains information related to supply chain metrics such as sales data, logistics performance, delivery metrics, inventory levels, etc. Analyzing this dataset can provide insights into the efficiency and effectiveness of the supply chain processes.
+2. **TokenizedAccessLogs.csv**: This dataset probably comprises digital access logs, which track consumer online interactions and preferences. It may include data on website visits, click-through rates, time spent on pages, product views, purchases, etc. Analyzing this dataset can help understand consumer behavior patterns and preferences in the digital space.
+
 ## Project Structure
 
 1. **Data Preprocessing**: Cleaning and merging the two datasets to create a unified dataset for analysis.
