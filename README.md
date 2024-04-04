@@ -8,6 +8,10 @@ This project delves into the convergence of supply chain operations and digital 
 1. **DataCoSupplyChainDataset.csv**: This dataset likely contains information related to supply chain metrics such as sales data, logistics performance, delivery metrics, inventory levels, etc. Analyzing this dataset can provide insights into the efficiency and effectiveness of the supply chain processes.
 2. **TokenizedAccessLogs.csv**: This dataset probably comprises digital access logs, which track consumer online interactions and preferences. It may include data on website visits, click-through rates, time spent on pages, product views, purchases, etc. Analyzing this dataset can help understand consumer behavior patterns and preferences in the digital space.
 
+## Original dataset and .csv file download:
+1. **DataCoSupplyChainDataset.csv**: [Download Link](https://drive.google.com/file/d/1zMA-2bvQinbpkkxEig-dzJ0CuEF1mV06/view?usp=sharing)
+2. **TokenizedAccessLogs.csv**: [Download Link](https://drive.google.com/file/d/15NFOCdOk-gQ_re-VU28GVrgWC7B-sU7a/view?usp=sharing)
+
 ## Project Structure
 
 1. **Data Preprocessing**: Cleaning and merging the two datasets to create a unified dataset for analysis.
