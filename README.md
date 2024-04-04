@@ -1,5 +1,7 @@
 # Project Title: Unraveling Supply Chain using Excel
 
+![Unraveling Supply Chain using Excel.png](https://github.com/meabhaykr/Unraveling-Supply-Chain-using-Excel/blob/main/Unraveling%20Supply%20Chain%20using%20Excel.png)
+
 ## Overview
 
 This project delves into the convergence of supply chain operations and digital consumer behavior analysis. By integrating two distinct datasets – a supply chain dataset offering insights into sales, logistics, and delivery performance, alongside an access logs dataset detailing online consumer interactions and preferences – the aim is to discern the relationship between customer engagement, online views, and sales. Employing Excel, this project builds a comprehensive dashboard to identify top-selling product categories and most-viewed products, thereby enabling strategic decision-making in customer relationship management and product marketing.
