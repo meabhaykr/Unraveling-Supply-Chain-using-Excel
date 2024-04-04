@@ -45,3 +45,7 @@ The results underscore the significance of embracing the dashboard for strategic
 ## Conclusion
 
 The project underscores the pivotal role of data-driven insights in navigating the complexities of supply chain operations and digital consumer behavior. By harnessing the power of Excel and integrating disparate datasets, this project illuminates actionable insights that can drive strategic decision-making and enhance organizational performance.
+
+## Links to my two Excel workbooks:
+For cleaned and modified data of Resort datasheet (no Pivot and no visualization): [Resort Unraveling Supply Chain RAW Sheet](https://docs.google.com/spreadsheets/d/1CKrm6S6SemnXbpRiU-qnx-MAIuTJ0yUk/edit?usp=sharing&ouid=114442953920521054882&rtpof=true&sd=true)
+For data analysis, pivot tables and spreadsheet visualization: [Resort Data Analysis and Visualization Unraveling Supply Chain](https://docs.google.com/spreadsheets/d/1zGm5MEsmyu8GFgx25T-nyT0I3CVcZiOk/edit?usp=sharing&ouid=114442953920521054882&rtpof=true&sd=true)
